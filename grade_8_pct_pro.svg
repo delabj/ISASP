@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 504.00 336.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, polygon, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMTQuOTR8NDk0LjA0fDMwMi42M3w2OS41OQ=='>
+    <rect x='14.94' y='69.59' width='479.09' height='233.04' />
+  </clipPath>
+</defs>
+<rect x='37.40' y='132.83' width='134.75' height='159.21' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' clip-path='url(#cpMTQuOTR8NDk0LjA0fDMwMi42M3w2OS41OQ==)' />
+<rect x='187.12' y='130.61' width='134.75' height='161.43' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' clip-path='url(#cpMTQuOTR8NDk0LjA0fDMwMi42M3w2OS41OQ==)' />
+<rect x='336.83' y='136.74' width='134.75' height='155.30' style='stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #595959;' clip-path='url(#cpMTQuOTR8NDk0LjA0fDMwMi42M3w2OS41OQ==)' />
+<g clip-path='url(#cpMTQuOTR8NDk0LjA0fDMwMi42M3w2OS41OQ==)'><text x='79.77' y='121.58' style='font-size: 28.45px; font-family: Impact;' textLength='50.01px' lengthAdjust='spacingAndGlyphs'>83%</text></g>
+<g clip-path='url(#cpMTQuOTR8NDk0LjA0fDMwMi42M3w2OS41OQ==)'><text x='229.92' y='119.36' style='font-size: 28.45px; font-family: Impact;' textLength='49.14px' lengthAdjust='spacingAndGlyphs'>84%</text></g>
+<g clip-path='url(#cpMTQuOTR8NDk0LjA0fDMwMi42M3w2OS41OQ==)'><text x='381.33' y='125.49' style='font-size: 28.45px; font-family: Impact;' textLength='45.76px' lengthAdjust='spacingAndGlyphs'>81%</text></g>
+<defs>
+  <clipPath id='cpMC4wMHw1MDQuMDB8MzM2LjAwfDAuMDA='>
+    <rect x='0.00' y='0.00' width='504.00' height='336.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MzM2LjAwfDAuMDA=)'><text x='94.34' y='324.25' style='font-size: 16.00px; fill: #4D4D4D; font-family: Impact;' textLength='20.86px' lengthAdjust='spacingAndGlyphs'>ELA</text></g>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MzM2LjAwfDAuMDA=)'><text x='238.10' y='324.25' style='font-size: 16.00px; fill: #4D4D4D; font-family: Impact;' textLength='32.79px' lengthAdjust='spacingAndGlyphs'>Math</text></g>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MzM2LjAwfDAuMDA=)'><text x='377.60' y='324.25' style='font-size: 16.00px; fill: #4D4D4D; font-family: Impact;' textLength='53.21px' lengthAdjust='spacingAndGlyphs'>Science</text></g>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MzM2LjAwfDAuMDA=)'><text x='9.96' y='57.39' style='font-size: 20.00px; font-family: Impact;' textLength='148.45px' lengthAdjust='spacingAndGlyphs'>Percent Proficient</text></g>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MzM2LjAwfDAuMDA=)'><text x='9.96' y='28.94' style='font-size: 24.00px; font-family: Impact;' textLength='155.80px' lengthAdjust='spacingAndGlyphs'>8th Grade ISASP</text></g>
+</svg>
